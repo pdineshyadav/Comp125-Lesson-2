@@ -1,11 +1,14 @@
-// Main Javascript file
+/* main JavaScript file */
 
-//IIFE - Immediate Invoked Function Expression
-
+// IIFE - Immediately Invoked Function Expression
 (function(){
     "use strict";
-    // code starts in here
-    Console.log("App Started....");
+    
+    
+    // code codes in here 
+    console.log("App Started...");
+    
+    
     
     
     
